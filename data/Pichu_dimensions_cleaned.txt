@@ -1,1 +1,0 @@
-PICHU: Width (cm), Height (cm)
